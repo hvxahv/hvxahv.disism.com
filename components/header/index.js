@@ -6,8 +6,8 @@ const menu = [
     "address": "/",
   },
   {
-    "name": "APIs",
-    "address": "/apis",
+    "name": "DOCS",
+    "address": "/docs",
   },
   {
     "name": "FAQ",

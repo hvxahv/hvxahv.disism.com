@@ -13,7 +13,7 @@ const Post = ({ post, morePosts, preview }) => {
   }
   return (
         <article>
-          <button onClick={() => router.push("/apis")}>BACK</button>
+          <button onClick={() => router.push("/docs")}>BACK</button>
           <Head>
             <title>
               {post.title}
